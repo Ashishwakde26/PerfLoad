@@ -8,7 +8,7 @@ import TestApp from './connectionTesting/TestApp'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <TestApp />
+    <App />
   </React.StrictMode>
 );
 
